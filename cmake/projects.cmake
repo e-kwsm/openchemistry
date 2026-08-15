@@ -63,9 +63,9 @@ set(spglib_sha256 "b22fc9abae9716c574fbc6d55cfc53ed654a714fccc5657a26ff5d18114bd
 
 # libarchive
 list(APPEND projects libarchive)
-set(libarchive_version "3.8.7")
+set(libarchive_version "3.8.9")
 set(libarchive_url "https://github.com/libarchive/libarchive/archive/v${libarchive_version}.tar.gz")
-set(libarchive_sha256 "bc942030fe7cb30e04eed31bd5f63c38cdfd712315b303e91b64e58f05db2346")
+set(libarchive_sha256 "744346f6bca195c8f894f847bb32a16e9bcae6002624a58fadc81e80f595b3cb")
 
 # libmsym
 list(APPEND projects libmsym)
